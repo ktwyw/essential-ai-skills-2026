@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Essential Skills for AI Proficiency in 2026">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e3a5f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#g)"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" fill="#f8fafc">
+    <text x="60" y="110" font-size="46" font-weight="700">Essential Skills for AI Proficiency</text>
+    <text x="60" y="160" font-size="26" fill="#cbd5e1">Specify clearly. Judge critically. Delegate wisely. Own the result.</text>
+    <text x="60" y="222" font-size="18" fill="#94a3b8">8 modules · 14 worked examples · 40 exercises · prompt library · templates · capstone</text>
+    <text x="60" y="252" font-size="18" fill="#94a3b8">An open course for students, educators and engineers · CC BY 4.0</text>
+  </g>
+  <g transform="translate(900,60)" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round">
+    <rect x="0" y="0" width="230" height="180" rx="14" stroke="#38bdf8"/>
+    <line x1="24" y1="40" x2="150" y2="40"/>
+    <line x1="24" y1="70" x2="206" y2="70"/>
+    <line x1="24" y1="100" x2="120" y2="100"/>
+    <path d="M24 140 l18 18 l34 -36" stroke="#4ade80"/>
+    <path d="M100 128 l30 30 M130 128 l-30 30" stroke="#f87171"/>
+    <path d="M176 125 l0 36 M176 125 l20 18 l-20 18" stroke="#fbbf24"/>
+  </g>
+</svg>
