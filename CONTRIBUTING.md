@@ -5,7 +5,9 @@ Thank you for helping improve this course. Students and instructors are both wel
 ## Ways to contribute
 
 - **Fix an error:** typos, broken links, or outdated information.
-- **Add an exercise:** a practice task that worked well in your class.
+- **Add an exercise:** a practice task that worked well in your class, in the format of the [exercise bank](exercises/exercise-bank.md) (task, deliverable, marking points).
+- **Add a worked example:** a real episode - the prompt, the output with its errors, how they were found - in the format of [examples/worked-examples](examples/worked-examples/README.md). Remove anything personal first.
+- **Add a prompt:** to the [prompt library](examples/prompts/README.md), with a sentence on why it works.
 - **Share a translation:** add translated modules in a folder such as `translations/kk/` or `translations/ru/`.
 - **Suggest an improvement:** open an Issue describing what you would change and why.
 

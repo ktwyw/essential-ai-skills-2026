@@ -7,6 +7,13 @@ A short, curated list. Prefer official documentation: it is more current than tu
 - Claude API documentation: https://docs.claude.com/en/api/overview
 - Anthropic prompt engineering guide: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview
 
+## Verifying AI output
+
+- Crossref (resolve any DOI, free): https://www.crossref.org and the API used by `check_citations.py`: https://api.crossref.org
+- Semantic Scholar and Google Scholar for title searches when a DOI fails
+- OWASP Top 10 for LLM applications (prompt injection and related risks): https://owasp.org/www-project-top-10-for-large-language-model-applications/
+- pytest, for testing AI-written code: https://docs.pytest.org
+
 ## Python
 
 - Official Python tutorial: https://docs.python.org/3/tutorial/

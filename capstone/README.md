@@ -14,6 +14,8 @@ Example ideas:
 - A bilingual glossary of technical terms, checked by you for accuracy
 - A non-technical option: a well-researched, fact-checked guide on a topic, with a full record of how AI was used
 
+Thirty more ideas by field are in [project-ideas.md](project-ideas.md). A complete example of the process record is in [examples/sample-PROCESS.md](examples/sample-PROCESS.md).
+
 ## Requirements
 
 Your GitHub repository must include:
@@ -21,7 +23,7 @@ Your GitHub repository must include:
 1. **README.md** explaining the problem, your solution, and how to use it (module 7: Markdown).
 2. **The work itself:** code, data, or documents.
 3. **A commit history** showing how the project developed over time, with meaningful messages (module 7: Git).
-4. **PROCESS.md** documenting:
+4. **PROCESS.md** (template in [`templates/PROCESS.md`](../templates/PROCESS.md)) documenting:
    - Three prompts you used, and how you improved them (module 1)
    - At least three AI errors you caught and how you verified the output (module 2)
    - How you broke the project into tasks, and what you delegated vs. did yourself (module 4)
@@ -50,4 +52,4 @@ Your GitHub repository must include:
 
 ---
 
-← Previous: [Module 7: The technical toolkit](../modules/07-technical-toolkit/README.md) · [Course home](../README.md)
+← Previous: [Module 8: AI in science and engineering work](../modules/08-ai-for-study-and-research.md) · [Course home](../README.md)

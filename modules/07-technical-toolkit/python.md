@@ -32,4 +32,5 @@ Python is the main language of AI, data science, and automation. You do not need
 ## Resources
 
 - Official tutorial: https://docs.python.org/3/tutorial/
-- Example in this repo: [`examples/summarize.py`](../../examples/summarize.py)
+- Examples in this repo: [`examples/summarize.py`](../../examples/summarize.py) (an API call), [`examples/python/data_explore.py`](../../examples/python/data_explore.py) (pandas), [`examples/python/test_ai_function.py`](../../examples/python/test_ai_function.py) (pytest), [`examples/python/check_citations.py`](../../examples/python/check_citations.py) (requests)
+- Worked example 3: [Debugging AI-written code](../../examples/worked-examples/03-debugging-ai-code.md)

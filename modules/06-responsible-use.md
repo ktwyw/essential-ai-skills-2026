@@ -42,6 +42,18 @@ You remain responsible for the accuracy, fairness, and honesty of anything you p
 3. **Spot the injection.** Read about a published example of prompt injection. Explain in your own words how it worked and how it could have been prevented.
 4. **Disclosure statement.** Write a short statement describing how you used AI in one recent assignment or project.
 
+## Common mistakes
+
+- **Pasting a file without reading its header.** Group data often carries names, IDs or emails in the first rows.
+- **Granting an agent permissions for convenience.** The whole drive for a task in one folder; email access for a research task (worked example 7).
+- **Disclosure that under-describes.** "AI was used for grammar" when it drafted a section. Specificity is what makes a statement credible ([template](../templates/ai-disclosure.md)).
+- **Treating injection as somebody else's problem.** Any assistant that reads web pages or documents on your behalf is exposed; the defence is what you let it do.
+
+## See also
+
+- Worked example 7: [A prompt injection](../examples/worked-examples/07-prompt-injection.md), with a safe classroom demonstration
+- Templates: [AI disclosure](../templates/ai-disclosure.md), [PROCESS.md](../templates/PROCESS.md) · Exercises 6.1-6.6 · [Self-check quiz](../exercises/self-check-quizzes.md#module-6-responsible-use)
+
 ## Reflection
 
 - What information have you shared with AI tools in the past that you would now handle differently?

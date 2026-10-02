@@ -38,6 +38,20 @@ Both modes are useful. The key is to choose deliberately, and to use tutor mode 
 3. **Hints only.** Work through a problem set asking the AI only for hints. Compare how much you remember a week later with a problem you solved by asking for the full answer.
 4. **Find the error.** Ask an AI to explain a concept you know very well. Find something it got wrong, oversimplified, or left out.
 
+## Common mistakes
+
+- **Using assistant mode when the goal is learning.** The answer appears; the skill does not.
+- **Trusting an explanation you cannot test.** If you do not yet know the field, you cannot tell a subtle error from a fact - which is the argument for building the field first.
+- **Never closing the chat.** The test of learning is doing it again alone (module 8).
+- **Letting the AI set the standard.** "Good enough for the AI" is not a standard; your field's is.
+
+## See also
+
+- Worked examples 13 and 14: [a bilingual glossary](../examples/worked-examples/13-bilingual-glossary.md), [an exam explanation that is subtly wrong](../examples/worked-examples/14-an-exam-explanation-that-is-subtly-wrong.md)
+- Tutor-mode prompts in [study.md](../examples/prompts/study.md) and [`quiz_from_notes.py`](../examples/python/quiz_from_notes.py)
+- Module 8 on keeping understanding growing in technical courses
+- Exercises 5.1-5.5 · [Self-check quiz](../exercises/self-check-quizzes.md#module-5-domain-expertise)
+
 ## Reflection
 
 - In which areas are you expert enough to judge AI output? In which are you not?

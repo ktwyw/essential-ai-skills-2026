@@ -47,6 +47,19 @@ For longer tasks, ask the AI to stop and show its plan before it starts, and to 
 3. **Plan first.** Ask an AI to make a plan for a multi-step task *before* doing anything. Review and edit the plan, then let it continue. Did reviewing the plan improve the result?
 4. **The boundary.** List three tasks in your studies or work that you would never delegate to AI. Explain why.
 
+## Common mistakes
+
+- **A "check" that cannot fail.** "Make sure it is correct" is a wish; "the script runs from a clean folder and these three values match the CSV" is a check.
+- **Delegating the task you are being assessed on.** The discussion of a lab report is the mark; the figure script is the chore (worked example 6).
+- **Skipping the plan.** Letting an agent run before you have seen its plan costs a rewrite when it misunderstands.
+- **Delegating what only you know.** Which readings were warm-up, what the client actually wants, what the professor said in class.
+
+## See also
+
+- Worked example 6: [Delegating a lab report](../examples/worked-examples/06-delegating-a-lab-report.md)
+- Worked example 11: [Supervising a coding agent](../examples/worked-examples/11-supervising-a-coding-agent.md)
+- Template: [delegation brief](../templates/delegation-brief.md) · Exercises 4.1-4.5 · [Self-check quiz](../exercises/self-check-quizzes.md#module-4-decomposition-and-delegation)
+
 ## Reflection
 
 - Where did your delegation brief fall short, and what did you add?

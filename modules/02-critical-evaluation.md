@@ -41,6 +41,21 @@ When an answer surprises you, that is exactly the moment to look closer. Sometim
 3. **Explain yourself.** Ask an AI a multi-step reasoning question, such as a logic puzzle. Then ask it to explain each step. Find at least one step you would challenge.
 4. **Two opinions.** Ask two different AI tools, or the same tool twice, the same factual question. Where do the answers differ? Which is right, and how do you know?
 
+## Common mistakes
+
+- **Checking the easy part.** Formatting, spelling and structure are where AI is strong; facts, references and edge cases are where it fails. Check the hard part first.
+- **Asking the AI to verify itself in the same chat.** It will agree with what it just wrote (worked example 5). A fresh chat is weak evidence; an independent source is strong evidence.
+- **Grading a reference from its title.** A DOI that resolves proves a paper exists, not that it says what the AI claimed (worked example 2).
+- **"It runs" as proof.** A function that passes one example and fails on empty input is not finished (worked example 3).
+- **Not deciding the stakes first.** Without "what happens if this is wrong?", checking is either skipped or done uniformly, and both waste time.
+
+## See also
+
+- Worked examples 2, 3 and 5: [fact-checking a summary](../examples/worked-examples/02-fact-checking-a-summary.md), [debugging AI code](../examples/worked-examples/03-debugging-ai-code.md), [checking a derivation](../examples/worked-examples/05-checking-a-derivation.md)
+- Worked examples 10 and 12: [choosing a statistical test](../examples/worked-examples/10-choosing-a-statistical-test.md), [summarising a paper you have](../examples/worked-examples/12-summarising-a-paper-you-have.md)
+- Scripts: [`check_citations.py`](../examples/python/check_citations.py), [`test_ai_function.py`](../examples/python/test_ai_function.py)
+- Templates: [verification log](../templates/verification-log.md) · Exercises 2.1-2.6 · [Self-check quiz](../exercises/self-check-quizzes.md#module-2-critical-evaluation)
+
 ## Reflection
 
 - What kinds of errors were hardest for you to spot?

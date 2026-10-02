@@ -24,6 +24,10 @@ What these tools share is that they are **plain-text and open**: the formats AI 
 - **Second tier (role-dependent):** SQL, APIs, and data formats.
 - **Specialized:** LaTeX or Typst, essential in research and academia, optional elsewhere.
 
+## Scripts in this repository
+
+The [`examples/`](../../examples/README.md) folder has six small scripts that practise the toolkit on this course's own problems: a CSV profiler, a DOI checker, a test template for AI-written functions, an API call, a variability measurement and a quiz generator. Three need no API key. Worked examples 3, 4 and 11 show them in use.
+
 ## Habits that apply to every tool
 
 - **Learn by building.** Use each tool on a real task you care about, not only on abstract exercises.
@@ -34,4 +38,4 @@ What these tools share is that they are **plain-text and open**: the formats AI 
 
 ---
 
-← Previous: [Module 6: Responsible use](../06-responsible-use.md) · [Course home](../../README.md) · Next: [Capstone project](../../capstone/README.md) →
+← Previous: [Module 6: Responsible use](../06-responsible-use.md) · [Course home](../../README.md) · Next: [Module 8: AI in science and engineering work](../08-ai-for-study-and-research.md) →

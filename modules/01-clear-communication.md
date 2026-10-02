@@ -40,6 +40,19 @@ When an answer disappoints you, don't just click "retry". Ask yourself what you 
 3. **Diagnose the gap.** Ask an AI to plan a one-day trip with no other details. Then list everything it had to guess. Rewrite the prompt to remove every guess.
 4. **Example power.** Ask for a product description twice: once with a description of the style you want, once with a short example of that style. Which worked better?
 
+## Common mistakes
+
+- **Asking a question when you need a specification.** "Tell me about X" returns an encyclopaedia entry; "I need X in order to Y, for Z, under these limits, in this form" returns something you can use.
+- **Leaving the AI to invent what you did not say.** Dates, names, attachments, relationships: anything not supplied will be guessed, and guesses read exactly like facts (worked example 1).
+- **Describing style instead of showing it.** One example beats three adjectives.
+- **Retrying instead of rewriting.** A new roll of the dice with the same prompt gives the same gaps.
+
+## See also
+
+- Worked example 1: [A prompt makeover](../examples/worked-examples/01-prompt-makeover.md)
+- The [prompt library](../examples/prompts/README.md), one file per situation
+- Templates: [prompt log](../templates/prompt-log.md) · Exercises 1.1-1.5 in the [exercise bank](../exercises/exercise-bank.md) · [Self-check quiz](../exercises/self-check-quizzes.md#module-1-clear-communication)
+
 ## Reflection
 
 - Which of the four ingredients do you most often forget?

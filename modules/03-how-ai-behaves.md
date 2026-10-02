@@ -43,6 +43,18 @@ Modern AI assistants often have **tools** such as web search, code execution, an
 3. **Variability test.** Ask the same open question three times in fresh conversations. How consistent were the answers? What changed?
 4. **Recent events.** Ask about something that happened this month. Did the AI search, say it didn't know, or answer from memory? How can you tell?
 
+## Common mistakes
+
+- **Treating one good answer as a guarantee.** The next run may differ; important uses should be tested several times ([`compare_answers.py`](../examples/python/compare_answers.py)).
+- **Expecting the model to know what you did not give it.** It cannot see your file, your course or last week's news unless it has them in the context or a tool to fetch them - and it will answer anyway.
+- **Confusing lower temperature with higher accuracy.** A repeatable wrong answer is still wrong.
+- **Not noticing whether a tool was used.** An answer with a visible search or code step rests on different ground from one recalled from training.
+
+## See also
+
+- The [glossary](../glossary.md) for context window, token, temperature, tool use, hallucination
+- Exercises 3.1-3.5 · [Self-check quiz](../exercises/self-check-quizzes.md#module-3-how-ai-behaves)
+
 ## Reflection
 
 - Which result in the practice surprised you most?
